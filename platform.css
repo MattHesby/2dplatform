@@ -1,0 +1,12 @@
+/*
+    Document   : platform.css
+    Created on : 2015-03-13 01:47 AM
+    Author     : MattHesby
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+#myCanvas{
+    border: 2px solid black;
+}
